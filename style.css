@@ -1,0 +1,31 @@
+body{
+    margin: 0%;
+    background-color: #E7F6F2 ;
+}
+
+h1{
+    margin: 0%;
+    text-align: center;
+    color: #395B64 ;
+    padding: 3% 4%;
+}
+
+div.container{
+ 
+    padding: 7% 15%;
+    background-color: #A5C9CA;
+    display: block;  
+}
+
+footer{
+     
+
+    margin-top: 100%;
+    font-size: large;
+    color: #A5C9CA;
+    font-weight: 600;
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #ffffff;
+
+}
